@@ -1,0 +1,16 @@
+.card{
+    background-color: rgb(247, 247, 247);
+    border-radius: 10px;
+    border: 1px grey solid;
+    padding: 10px;
+    margin: 10px;
+    height: 150px;
+
+    .red-card{
+        color: red;
+    }
+
+    .black-card{
+        color: black;
+    }
+}
