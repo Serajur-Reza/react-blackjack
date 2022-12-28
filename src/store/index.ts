@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import blackJack from "./reducers";
+import blackJack from "./blackJack";
 
 
 export const store = configureStore({

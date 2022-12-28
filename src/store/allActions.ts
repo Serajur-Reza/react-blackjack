@@ -1,7 +1,0 @@
-export const GET_PLAYER_CARDS = "GET_PLAYER_CARDS"
-export const GET_DEALER_CARDS = "GET_DEALER_CARDS"
-export const GET_PLAYER_SCORE = "GET_PLAYER_SCORE"
-export const GET_DEALER_SCORE = "GET_DEALER_SCORE"
-export const GET_CARDS = "GET_CARDS"
-export const HIT = "HIT"
-export const STAND = "STAND"

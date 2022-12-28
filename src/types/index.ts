@@ -3,3 +3,12 @@ export interface ICard {
     value: number | string
 }
 
+
+export interface IBlackJack{
+    cards: ICard[],
+    playerCards: ICard[],
+    dealerCards: ICard[],
+    playerScore: number,
+    dealerScore: number,
+    resultMessage: string,
+}
